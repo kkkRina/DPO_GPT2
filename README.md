@@ -1,4 +1,4 @@
-# DPO GPT-2 Fine-tuning Project
+# DPO GPT-2 
 
 Данный проект посвящён обучению и оценке модели GPT-2, дообученной с помощью метода Direct Preference Optimization (DPO). 
 Проект включает полный конвейер: подготовка данных, обучение, сохранение результатов и последующая оценка модели.
@@ -73,4 +73,5 @@ python src/train_dpo.py
 ```bash
 python results/eval.py
 ```
+
 
